@@ -1,0 +1,37 @@
+# Cada bloco descreve: separador e lista ordenada de campos na mesma
+# sequência em que aparecem na base bruta.
+Dragon Ball Legends:
+  separador: "----"
+  campos: [login, senha]
+
+Hoyoverse Usuario:
+  separador: "----"
+  campos: [login, senha]
+
+Hoyoverse Mailcom:
+  separador: "----"
+  campos: [email, senha, senha_email]
+
+Hoyoverse Outlook:
+  separador: "----"
+  campos: [email, senha, senha_email]
+
+Arknights Endfield:
+  separador: "----"
+  campos: [email, senha, senha_email]
+
+Wuthering Waves Outlook:
+  separador: "----"
+  campos: [email, senha, senha_email]
+
+Wuthering Waves Memchr:
+  separador: "----"
+  campos: [email, senha, senha_email]
+
+Solo Leveling Arise:
+  separador: "----"
+  campos: [login, senha]
+
+Hearthstone:
+  separador: "----"
+  campos: [email, senha, senha_email, email_rec, senha_rec]
