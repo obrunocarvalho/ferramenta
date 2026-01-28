@@ -1,0 +1,14 @@
+Seus dados de acesso
+ㅤ
+**📜 Usuário:** {{login}}
+**🔒 Senha:** {{senha}}
+
+**🔑 Troca de informações de login:**
+Você pode trocar dentro do jogo (Menu > Configurações > Conta > Central do Usuário)
+ou pelo site da Hoyoverse: https://account.hoyoverse.com/passport/index.html#/login
+ㅤ
+**⚠️ Importante para sua segurança:**
+- Aguarde pelo menos três dias para alterar a senha da conta.
+- Vincule um e-mail assim que possível.
+ㅤ
+Qualquer dúvida, estou à disposição, só me chamar aqui no chat!

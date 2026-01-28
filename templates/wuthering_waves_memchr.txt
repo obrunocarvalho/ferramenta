@@ -1,0 +1,13 @@
+🔑 Seus dados de acesso
+ㅤ
+**📜 Login:** {{email}}
+**🔒 Senha:** {{senha}}
+**🔒 Senha do e-mail:** {{senha_email}}
+ㅤ
+**📧 Acesse o email aqui:** http://114.55.65.32:8000/
+ㅤ
+**⚠️ Importante para sua segurança:**
+- Altere a senha da conta e do e-mail assim que possível.
+- O email da conta não pode ser alterado, então salve os dados.
+ㅤ
+Qualquer dúvida, estou à disposição, só me chamar aqui no chat!

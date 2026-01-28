@@ -1,0 +1,15 @@
+🔑 Seus dados de acesso
+
+**📜 Login:** {{login}}
+**🔒 Senha:** {{senha}}
+
+**📧 Tutorial de login:** https://imgur.com/a/u5ZVQKc
+- Veja no link acima um tutorial de como entrar o jogo usando a conta recebida.
+- Certifique-se de sair da sua conta anterior (antes vincule dados de recuperação para não perdê-la) **no menu: Settings > Delete User Data**
+ㅤ
+**⚠️ Importante para sua segurança:**
+- Só entre na conta através de um **dispositivo Android**, caso contrário você **perderá seus recursos**!
+- Não nos responsabilizaremos caso você acesse por outro sistema que não seja o Android!
+- Altere os dados do jogo assim que possível. Vincule outros acessos no menu de segurança.
+ㅤ
+Qualquer dúvida, estou à disposição, só me chamar aqui no chat!

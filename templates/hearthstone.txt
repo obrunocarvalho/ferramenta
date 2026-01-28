@@ -1,0 +1,17 @@
+🔑 Seus dados de acesso
+ㅤ
+**📜 Email:** {{email}}
+**🔒 Senha:** {{senha}}
+**🔒 Senha do e-mail:** {{senha_email}}
+ㅤ
+**📧 Acesse o email da conta aqui:** https://outlook.live.com
+
+**📜 E-mail de recuperação (do Outlook)** - http://mail.wmhotmail.com/
+**📜 Email:** {{email_rec}}
+**🔒 Senha:** {{senha_rec}}
+ㅤ
+**⚠️ Importante para sua segurança:**
+- Altere os dados do jogo e do e-mail assim que possível.
+- Vincule outros acessos no menu de segurança da Battle.net.
+ㅤ
+Qualquer dúvida, estou à disposição, só me chamar aqui no chat!

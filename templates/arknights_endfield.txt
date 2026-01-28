@@ -1,0 +1,12 @@
+🔑 Seus dados de acesso
+ㅤ
+**📜 Login:** {{email}}
+**🔒 Senha:** {{senha}}
+**🔒 Senha do e-mail:** {{senha_email}}
+ㅤ
+**📧 Acesse o email aqui:** https://outlook.live.com
+ㅤ
+**⚠️ Importante para sua segurança:**
+- Altere a senha do e-mail e da conta assim que possível.
+ㅤ
+Qualquer dúvida, estou à disposição, só me chamar aqui no chat!

@@ -1,0 +1,14 @@
+🔑 Seus dados de acesso
+ㅤ
+**📜 Login:** {{email}}
+**🔒 Senha:** {{senha}}
+**🔒 Senha do e-mail:** {{senha_email}}
+ㅤ
+**📧 Acesse o email aqui:** https://www.mail.com/
+- Segue um guia em imagem de como acessar o email: https://imgur.com/a/aisy8hF
+ㅤ
+**⚠️ Importante para sua segurança:**
+- Aguarde pelo menos três dias para alterar os dados da conta.
+- Altere a senha do e-mail assim que possível.
+ㅤ
+Qualquer dúvida, estou à disposição, só me chamar aqui no chat!
